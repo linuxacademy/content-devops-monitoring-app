@@ -1,0 +1,80 @@
+* {
+  font-family: "Duru Sans", sans-serif;
+  font-size: 15pt;
+}
+
+body {
+  background: #313131;
+  color: #FFF;
+  margin-top: 20px;
+}
+
+h1 {
+  font-size: 30pt;
+}
+
+h2 {
+  color: #1bb398;
+  font-size: 23pt;
+}
+
+.container {
+  margin: 0 auto;
+  width: 500px;
+}
+
+li {
+  list-style-type: none;
+  margin: 10px 0;
+}
+
+.newtask {
+  width: 350px;
+  height: 41px;
+  float: left;
+  margin-right: 10px;
+  background: #212121;
+  border: 0;
+  color: #fff;
+  font-size: 15pt;
+  padding: 5px;
+}
+
+.addbutton {
+  width: 140px;
+  height: 40px;
+  background: #1bb398;
+  border: 0;
+  font: 15pt "Duru Sans";
+  color: #fff;
+  margin-bottom: 10px;
+}
+
+.check {
+  margin-right: 10px;
+}
+
+.checked {
+  margin-right: 15px;
+}
+
+.completed {
+  width: 500px;
+  height: 40px;
+  background: #1bb398;
+  border: 0;
+  font: 15pt "Duru Sans";
+  color: #fff;
+  margin-bottom: 10px;
+}
+
+.credit {
+  font-size: 10pt;
+  font-style: italic;
+  color: #7e7e7e;
+  margin-top: 100px;
+}
+.credit a {
+  font-size: 10pt;
+  color: #000;
+}
